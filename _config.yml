@@ -49,3 +49,6 @@ exclude:
   - LICENSE
   - README.md
   - Makefile
+  - vendor/
+  - Gemfile
+  - README.md
